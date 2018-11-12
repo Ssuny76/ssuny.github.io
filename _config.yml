@@ -12,18 +12,18 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Ssuny's blog"
 title_separator          : "-"
 name                     : "Dayoung Seo(Ssuny)"
 description              : "pesonal site"
-url                      : "https://ssuny.github.io"
+url                      : "https://ssuny76.github.io"
 baseurl                  : ""
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "Ssuny76/ssuny76.github.io"
+teaser                   : "/assets/images/cafe.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
