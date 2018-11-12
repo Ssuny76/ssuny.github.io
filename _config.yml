@@ -19,11 +19,11 @@ locale                   : "ko-KR"
 title                    : "Ssuny's blog"
 title_separator          : "-"
 name                     : "Dayoung Seo(Ssuny)"
-description              : "pesonal site"
+description              : "I opened a pesonal blog to share what I study, think, and live."
 url                      : "https://ssuny76.github.io"
 baseurl                  : ""
 repository               : "Ssuny76/ssuny76.github.io"
-teaser                   : "/assets/images/cafe.jpg"
+teaser                   : "/assets/images/back.jpg"
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -74,7 +74,7 @@ google:
 google_site_verification : "vEIlCjm_OJYh07KaRa9GMI0xZuTlqmRHGuqlORp8L7I"
 bing_site_verification   :
 yandex_site_verification :
-naver_site_verification  :
+naver_site_verification  : "d6caf80bed9d2fed44efc36cd358c6f8ae17c45b"
 
 # Social Sharing
 twitter:
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dayoung Seo(Ssuny)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I study Industrial Engineering and Computer Science in SNU, South Korea. I love to explore, achieve, and reflect."
+  location         : "Seoul, Korea"
+  email            : multiply@snu.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -122,10 +122,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Ssuny76"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/ssda76"
 
 # Site Footer
 footer:
@@ -217,7 +217,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
